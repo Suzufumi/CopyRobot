@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="Globals">
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <ItemsProjectGuid>{8C1D084C-C178-4A5D-84D5-9D8B94E39AB0}</ItemsProjectGuid>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);$(MSBuildThisFileDirectory)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ProjectCapability Include="SourceItemsFromImports" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)AliveGameObject.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Bullet.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)CamereonEnemy.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)CamereonEnemyStateMachine.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)EfkInterface.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Enemy.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)EnemyAnimationState.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)EnemyBehavior.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)GameClear.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)GameStage.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Goal.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)OurGameObject.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)MainUI.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)MiniMap.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)NormalEnemy.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)NormalEnemyStateMachine.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Over.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Plane.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Player.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)PlayerAnimationState.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)PlayerAssimililationObject.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)PlayerBehaviour.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)PlayerStateMachine.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Project.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectCamera.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectLibs\BillboardSquare.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectLibs\InputHandler.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectLibs\MyUtil.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectLibs\PostEffectRenderTarget.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectLibs\Sprite.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectLibs\Transition.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectLibs\UINumber.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)ProjectShader.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Pillar.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Scene.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)SelectStage.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)SkySphere.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)SplashStage.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)StageSelectStage.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)StaticObject.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Target.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Title.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)TutorialBox.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)TutorialMessage.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)TutorialStage.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Wall.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="$(MSBuildThisFileDirectory)AliveGameObject.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Bullet.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)CamereonEnemy.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)CamereonEnemyStateMachine.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)EfkInterface.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Enemy.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)EnemyAnimationState.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)EnemyBehavior.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)GameClear.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)GameStage.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Goal.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)MainUI.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)MiniMap.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)NormalEnemy.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)NormalEnemyStateMachine.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)OurGameObject.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Over.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Plane.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Player.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)PlayerAnimationState.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)PlayerAssimililationObject.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)PlayerBehaviour.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)PlayerStateMachine.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectCamera.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectLibs\BillboardSquare.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectLibs\InputHandler.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectLibs\MyUtil.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectLibs\PostEffectRenderTarget.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectLibs\Sprite.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectLibs\Transition.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectLibs\UINumber.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)ProjectShader.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Piller.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Scene.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)SelectStage.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)SkySphere.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)SplashStage.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)StageSelectStage.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)StaticObject.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Target.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Title.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)TutorialBox.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)TutorialMessage.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)TutorialStage.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Wall.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)WinMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="$(MSBuildThisFileDirectory)Shaders\PSFadeTexTransition.hlsl">
+      <ShaderType>Pixel</ShaderType>
+    </FxCompile>
+    <FxCompile Include="$(MSBuildThisFileDirectory)Shaders\PSNormalTransition.hlsl">
+      <ShaderType>Pixel</ShaderType>
+    </FxCompile>
+    <FxCompile Include="$(MSBuildThisFileDirectory)Shaders\PSPCTGrayScaleSprite.hlsl">
+      <ShaderType>Pixel</ShaderType>
+    </FxCompile>
+    <FxCompile Include="$(MSBuildThisFileDirectory)Shaders\PSPCTSepiaSprite.hlsl">
+      <ShaderType>Pixel</ShaderType>
+    </FxCompile>
+    <FxCompile Include="$(MSBuildThisFileDirectory)Shaders\VSTransition.hlsl">
+      <ShaderType>Vertex</ShaderType>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Shaders\INCStructs.hlsli" />
+    <None Include="$(MSBuildThisFileDirectory)Shaders\INCTransitionConstant.hlsli" />
+  </ItemGroup>
+</Project>

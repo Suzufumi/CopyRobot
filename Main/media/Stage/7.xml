@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameStage>
+  <Player Type="Player" Pos="(25.5, 0.7, 12.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <CellMap Type="CellMap" Name="SecondCurve" Pos="(12.0, 0.0, 46.0)" PieceSize="1" Row="9" Col="41" />
+  <CellMap Type="CellMap" Name="DefaultCellMap" Pos="(3.0, 0.0, 24.0)" PieceSize="1" Row="26" Col="50" />
+  <CellMap Type="CellMap" Name="LastZone" Pos="(19.0, 0.0, 63.0)" PieceSize="1" Row="22" Col="29" />
+  <Wall Type="Wall" Pos="(12.5, 2.5, 25.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 2.0)" />
+  <Wall Type="Wall" Pos="(47.0, 2.5, 35.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(2.0, 7.0, 6.0)" />
+  <Wall Type="Wall" Pos="(34.5, 2.5, 12.0)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(14.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(20.5, 2.5, 34.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(3.0, 7.0, 2.0)" />
+  <Wall Type="Wall" Pos="(49.0, 2.5, 43.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(6.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(47.0, 2.5, 73.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(21.0, 7.0, 2.0)" />
+  <Wall Type="Wall" Pos="(18.5, 2.5, 46.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 7.0)" />
+  <Wall Type="Wall" Pos="(26.0, 2.5, 32.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(28.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(15.5, 2.5, 35.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(7.0, 7.0, 5.0)" />
+  <Wall Type="Wall" Pos="(28.5, 2.5, 23.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 6.0)" />
+  <Wall Type="Wall" Pos="(12.5, 2.5, 46.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 17.0)" />
+  <Wall Type="Wall" Pos="(20.0, 2.5, 73.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(21.0, 7.0, 2.0)" />
+  <Wall Type="Wall" Pos="(26.5, 2.5, 59.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(15.0, 7.0, 8.0)" />
+  <Wall Type="Wall" Pos="(27.5, 2.5, 96.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(25.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(8.0, 2.5, 34.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(8.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(31.5, 2.5, 19.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(7.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(32.0, 2.5, 46.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(20.0, 7.0, 7.0)" />
+  <Wall Type="Wall" Pos="(19.5, 2.5, 19.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(7.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(15.0, 2.5, 62.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(6.0, 7.0, 15.0)" />
+  <Wall Type="Wall" Pos="(33.5, 1.5, 73.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(15.0, 5.0, 12.0)" />
+  <Wall Type="Wall" Pos="(3.5, 2.5, 29.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 11.0)" />
+  <Wall Type="Wall" Pos="(15.5, 2.5, 83.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 26.0)" />
+  <Wall Type="Wall" Pos="(32.0, 2.5, 37.0)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(2.0, 7.0, 20.0)" />
+  <Wall Type="Wall" Pos="(8.0, 2.5, 24.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(8.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(25.5, 2.5, 84.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(13.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(16.5, 2.5, 12.0)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(14.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(25.5, 2.5, 4.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(19.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(22.5, 2.5, 23.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 6.0)" />
+  <Wall Type="Wall" Pos="(20.5, 2.5, 45.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(3.0, 7.0, 4.0)" />
+  <Wall Type="Wall" Pos="(40.5, 2.5, 26.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(25.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(17.5, 2.5, 26.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(11.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(44.0, 2.5, 48.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(4.0, 7.0, 3.0)" />
+  <Wall Type="Wall" Pos="(39.5, 2.5, 90.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 11.0)" />
+  <Wall Type="Wall" Pos="(41.5, 2.5, 84.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(13.0, 7.0, 1.0)" />
+  <Wall Type="Wall" Pos="(52.5, 2.5, 41.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 28.0)" />
+  <Wall Type="Wall" Pos="(45.5, 2.5, 59.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(15.0, 7.0, 8.0)" />
+  <Wall Type="Wall" Pos="(31.0, 2.5, 34.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(18.0, 7.0, 3.0)" />
+  <Wall Type="Wall" Pos="(46.5, 2.5, 47.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 7.0, 6.0)" />
+  <NormalEnemy Type="NormalEnemy" Pos="(25.0, 0.5, 65.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="LastZone">
+    <WayPoint Pos="(25.0, 0.5, 65.0)" />
+    <WayPoint Pos="(45.0, 0.5, 65.0)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(50.0, 0.5, 29.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="DefaultCellMap">
+    <WayPoint Pos="(50.0, 0.5, 29.0)" />
+    <WayPoint Pos="(50.0, 0.5, 41.0)" />
+    <WayPoint Pos="(44.0, 0.5, 41.0)" />
+    <WayPoint Pos="(44.0, 0.5, 29.0)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(31.5, 0.5, 52.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="SecondCurve">
+    <WayPoint Pos="(31.5, 0.5, 52.5)" />
+    <WayPoint Pos="(18.5, 0.5, 52.5)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(41.5, 0.5, 81.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="LastZone">
+    <WayPoint Pos="(41.5, 0.5, 81.5)" />
+    <WayPoint Pos="(22.0, 0.5, 81.5)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(46.5, 0.5, 52.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="SecondCurve">
+    <WayPoint Pos="(46.5, 0.5, 52.5)" />
+    <WayPoint Pos="(33.5, 0.5, 52.5)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(19.5, 0.5, 40.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="DefaultCellMap">
+    <WayPoint Pos="(19.5, 0.5, 40.5)" />
+    <WayPoint Pos="(42.5, 0.5, 40.5)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(38.5, 0.5, 29.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="DefaultCellMap">
+    <WayPoint Pos="(38.5, 0.5, 29.5)" />
+    <WayPoint Pos="(13.0, 0.5, 29.5)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(23.0, 0.5, 77.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="LastZone">
+    <WayPoint Pos="(23.0, 0.5, 77.5)" />
+    <WayPoint Pos="(23.0, 0.5, 65.0)" />
+  </NormalEnemy>
+  <NormalEnemy Type="NormalEnemy" Pos="(43.5, 0.5, 67.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="LastZone">
+    <WayPoint Pos="(43.5, 0.5, 67.5)" />
+    <WayPoint Pos="(43.5, 0.5, 81.0)" />
+  </NormalEnemy>
+  <Rock Type="Rock" Pos="(20.5, 0.0, 36.2)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <Rock Type="Rock" Pos="(41.8, 0.0, 34.1)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <Rock Type="Rock" Pos="(8.0, 0.0, 29.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <Goal Type="Goal" Pos="(26.7, 0.5, 90.2)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <CrystalTable Type="CrystalTable" Pos="(51.5, 0.0, 47.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <CrystalTable Type="CrystalTable" Pos="(8.0, 0.0, 33.0)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <CameraMove Pos="(15.5, 2.8, 53.5)">
+    <WayPoint Pos="(15.5, 2.8, 53.5)" />
+    <WayPoint Pos="(15.5, 2.8, 40.5)" />
+    <WayPoint Pos="(50.0, 2.8, 40.5)" />
+    <WayPoint Pos="(50.0, 2.8, 29.5)" />
+    <WayPoint Pos="(25.5, 2.8, 29.5)" />
+    <WayPoint Pos="(25.5, 2.8, 19.0)" />
+  </CameraMove>
+</GameStage>

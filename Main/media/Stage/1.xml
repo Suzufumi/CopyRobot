@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameStage>
+  <Player Type="Player" Pos="(7.2, 0.7, 7.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(1.0, 1.0, 1.0)" />
+  <CellMap Type="CellMap" Name="DefaultCellMap" Pos="(11.0, 0.0, 0.0)" PieceSize="1" Row="20" Col="26" />
+  <Wall Type="Wall" Pos="(2.5, 3.5, 7.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 15.0)" />
+  <Wall Type="Wall" Pos="(46.5, 3.5, 7.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 15.0)" />
+  <Wall Type="Wall" Pos="(24.5, 3.5, 4.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(1.0, 9.0, 19.0)" />
+  <Wall Type="Wall" Pos="(34.5, 3.5, 12.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 5.0)" />
+  <Wall Type="Wall" Pos="(8.5, 3.5, 0.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(1.0, 9.0, 11.0)" />
+  <Wall Type="Wall" Pos="(14.5, 3.5, 2.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 5.0)" />
+  <Wall Type="Wall" Pos="(8.5, 3.5, 14.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(1.0, 9.0, 11.0)" />
+  <Wall Type="Wall" Pos="(24.5, 3.5, 10.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(1.0, 9.0, 19.0)" />
+  <Wall Type="Wall" Pos="(40.5, 3.5, 0.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(1.0, 9.0, 11.0)" />
+  <Wall Type="Wall" Pos="(40.5, 3.5, 14.5)" Quat="(0.0, 0.7, 0.0, 0.7)" Scale="(1.0, 9.0, 11.0)" />
+  <Wall Type="Wall" Pos="(34.5, 3.5, 2.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 5.0)" />
+  <Wall Type="Wall" Pos="(14.5, 3.5, 12.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 5.0)" />
+  <Wall Type="Wall" Pos="(13.5, 3.5, 9.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 1.0)" />
+  <Wall Type="Wall" Pos="(13.5, 3.5, 5.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 9.0, 1.0)" />
+  <NormalEnemy Type="NormalEnemy" Pos="(28.5, 0.5, 7.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" CellMapName="DefaultCellMap">
+    <WayPoint Pos="(21.5, 0.5, 7.5)" />
+    <WayPoint Pos="(36.5, 0.5, 7.5)" />
+  </NormalEnemy>
+  <Rock Type="Rock" Pos="(13.5, 0.0, 8.4)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <Rock Type="Rock" Pos="(13.5, 0.0, 6.6)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <Goal Type="Goal" Pos="(40.5, 0.5, 7.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 1.0)" />
+  <CameraMove Pos="(4.2, 1.9, 7.5)">
+    <WayPoint Pos="(33.4, 1.9, 7.2)" />
+  </CameraMove>
+  <TutorialBox Type="TutorialBox" Pos="(15.0, 0.5, 7.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 12.0)" TextureKey="TUTORIAL1_SLIDE2" />
+  <TutorialBox Type="TutorialBox" Pos="(17.5, 0.5, 7.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 12.0)" TextureKey="TUTORIAL1_SLIDE3" />
+  <TutorialBox Type="TutorialBox" Pos="(9.5, 0.5, 7.5)" Quat="(0.0, 0.0, 0.0, 1.0)" Scale="(1.0, 1.0, 15.8)" TextureKey="TUTORIAL1_SLIDE1" />
+</GameStage>
